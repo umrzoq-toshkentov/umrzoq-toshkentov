@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @umrzoq-toshkentov
 - 👀 I’m interested in Node js, React js and Nest js
 - 🌱 I’m currently learning Nest js
-- 💞️ I’m looking to collaborate on development
 - 📫 ssdumrzoq@gmail.com
 
 <!---
